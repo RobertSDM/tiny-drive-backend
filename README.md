@@ -4,18 +4,8 @@
 
 # **TinyDrive (Server)**
 
-TinyDrive is a personal project, that is inspired by the Google's Drive interface and cloud storage. This project was developt to explore concepts and apply them is a somewhat real project.
+TinyDrive is a personal project, that is inspired by the Google's Drive interface and cloud storage. This project was developt to explore concepts and apply them is a somewhat real project. Created to upload, download and manage safely on the cloud.
 
-TinyDrive was created for you store files on the cloud in a easy way and download or preview its content.
-
-You can access the project and test it using this link: [Tiny Drive](https://tiny-drive.vercel.app/login)
-
-if you don't want to login with your own email, you can use this login I've created for tests:
-
-```
-Email: tiny.test.drive@gmail.com
-Senha: 12345678
-```
 
 # Main Features
 
@@ -33,6 +23,7 @@ Senha: 12345678
 # Run locally
 
 This project uses mainly supabase for storage, authentication and database. If you want to run it you'll need a supabase project.
+This repository is the backend for the [frontend](https://github.com/RobertSDM/TinyDrive) part. The backend can be run by itself.
 
 Clone this repo and move to the folder:
 
